@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+.logtxt{
+  color: blue;
+}
+.light{
+  background-color: white;
+  color: black;
+}
+.dark{
+  background-color: black;
+  color: white;
+}
